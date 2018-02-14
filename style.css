@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font: 0.92em/1.4 Arial, sans-serif;
+    background-color: #ffffff;
+    color: #000;
+}
+
+h2 {
+    color: cornflowerblue;
+}
+
+h1{
+    text-align: center;
+    color: cornflowerblue;
+}
+
+div {
+    width: 800px;
+    background-color: rgba(255, 255, 255, 0.50);
+    margin: 0 auto; }
+
+
+.leftimg {
+    float:left;
+    margin: 10px 20px 10px 0;
+    text-align: center;
+    border-radius: 8px;
+}
+
